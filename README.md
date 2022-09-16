@@ -1,4 +1,4 @@
-# Projeto Banco de Dados
+o# Projeto Banco de Dados
  Projeto Oficina
 ### **Fundamentos de Banco de Dados** 
 ### Banco de Dados II
@@ -34,7 +34,7 @@
   
   <details>	
   
-  <summary><a> Propriedades das Trasações</a></summary>
+  <summary><a> Propriedades das Transações</a></summary>
     
   Todo banco de dados RELACIONAL deve possuir as propriedades ACID:
   - **ATOMICIDADE**: todas as operações de uma transação são realizadas. Isso significa que em caso de sucesso deve ser executada totalmente e em casos de erros ou falhas deve ser abortada por completo.
